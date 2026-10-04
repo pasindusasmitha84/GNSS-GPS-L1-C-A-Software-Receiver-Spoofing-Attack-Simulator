@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-GNSS / GPS L1 C/A Software Receiver & Spoofing Attack Simulator  (v2 - fixed)
+GNSS / GPS L1 C/A Software Receiver & Spoofing Attack Simulator 
 =============================================================================
 Single-file PyQt5 + PyQtGraph + SciPy application.
 
